@@ -1,2 +1,2 @@
 # App Privacy Policy
-This app does not collect any information from the user.
+The BookMapper app does not collect any data or information from its user, nor does it share any data or information with any party.
